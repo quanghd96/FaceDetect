@@ -4,7 +4,6 @@ android:
     - tools
     - build-tools-29.0.0
     - android-28
-    - platform-tools
     - extra-android-support # because I'm use support library
     - extra-android-m2repository # because I'm use support library
   licenses:
