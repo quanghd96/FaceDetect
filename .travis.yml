@@ -27,3 +27,4 @@ cache:
 
 script:
   - chmod +x ./gradlew
+  - ./gradlew
